@@ -1,0 +1,44 @@
+.comicContainer{
+    
+    border: solid black; 
+    margin: 90px; 
+    height: 75vh; 
+}
+
+.topText{
+   border: solid red; 
+}
+
+.section{
+    border: solid purple; 
+    width: 33%; 
+    margin: 6px; 
+ 
+}
+
+.pic{
+    border: solid blue; 
+    width: 100%; 
+    height: 100%; 
+ }
+
+ .miniText{
+   position: absolute;
+   bottom: 2px;
+   right: 2px;
+   border: solid purple; 
+   padding-left: 2px;
+   padding-right: 2px;
+ }
+
+ .rowOne{
+    display: flex; 
+    height: 40%; 
+    margin: 1em; 
+ }
+
+ .rowTwo{
+    display: flex; 
+    height: 40%; 
+    margin: 1em; 
+ }
